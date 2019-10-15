@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gohhithugh.schwingenstein-stiftung.de/sitemap.xml
